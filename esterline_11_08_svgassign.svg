@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <desc>Bar Graph</desc>
+    
+    <title>A bart chart showing information</title>
+    <g>
+        <rect x="5" y="300" width="30" height="404" stroke="red" stroke-width="4" />
+        <text x="20" y="200" dy=".35em" style="writing-mode: tb;">Tahiti</text>
+        <text x="5" y="730" dy=".35em">404</text>
+    </g>
+    <g>
+        <rect x="50" y="639" width="30" height="65" stroke="blue" stroke-width="4" />
+        <text x="70" y="200" dy=".35em" style="writing-mode: tb;">Raiatea</text>
+        <text x="50" y="730" dy=".35em">65</text>
+    </g>
+    <g>
+        <rect x="100" y="604" width="30" height="100" stroke="green" stroke-width="4" />
+        <text x="120" y="200" dy=".35em" style="writing-mode: tb;">Tongatapu</text>
+        <text x="100" y="730" dy=".35em">100</text>
+    </g>
+    
+</svg>

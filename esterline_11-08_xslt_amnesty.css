@@ -1,0 +1,29 @@
+span.tech {
+    color: red;
+    text-decoration: underline;
+    text-shadow: 2px 2px 5px red;
+}
+
+span.location {
+
+color: blue;
+text-decoration: underline;
+text-shadow: 2px 2px 5px blue;
+    
+}
+
+table, th, td {
+    border-collapse: collapse;
+    border: 3px solid #000000;
+    border-width: thick;
+    border-style: solid;   
+    padding: 15px;
+    vertical-align: top;
+    background-color:#e6fff2;
+    }
+    
+
+.center {
+  text-align: center;
+  border: 15px dotted green;
+}

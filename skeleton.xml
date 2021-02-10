@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-model href="GitHub/Elder_Scrolls/xml/Schema/morrowindBookSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<Book>
+    
+    <book_title ref =""></book_title>
+    <writer who="" listed ="yes"></writer>
+    <Acquisition>
+        <location ref ="" visitable ="yes"></location>
+        <location ref ="" visitable ="yes"></location>
+        <location ref ="" visitable ="yes"></location>
+        <location ref ="" visitable ="yes"></location>
+        <location ref ="" visitable ="yes"></location>
+        <location ref ="" visitable ="yes"></location>
+    </Acquisition>
+    <contents>
+        
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        
+    </contents>
+    <consoleID xmlid=""></consoleID>
+    <group ref=""></group>
+    <person ref=""></person>
+    <location ref ="" visitable ="yes"></location>
+    <object><item ref=""></item></object>
+</Book>
