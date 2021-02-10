@@ -5,9 +5,9 @@
     
     
    <prep> 
-    <ingredient quant="5">5 potatoes </ingredient>
+    <ingredient quant="5">5 potatoes</ingredient>
     <ingredient quant="3">3 eggs</ingredient>
-    <ingredient quant="1" unit="cup">1 cup chopped celery </ingredient>
+    <ingredient quant="1" unit="cup">1 cup chopped celery</ingredient>
     <ingredient quant=".5" unit="cup">1/2 cup chopped onion</ingredient>
     <ingredient quant=".5" unit="cup">1/2 cup sweet pickle relish</ingredient>
     <ingredient quant=".25" unit="tsp">1/4 teaspoon garlic salt</ingredient>
