@@ -11,5 +11,6 @@ font-family: "Times New Roman", Times, serif;
 
 ol {list-style-type: lower-alpha;
 padding: 5em;
-    
+font-size:large;
+color:red;
 }
