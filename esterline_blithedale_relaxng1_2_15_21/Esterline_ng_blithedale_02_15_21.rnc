@@ -1,0 +1,22 @@
+start = book
+book = element book {metadata, contents, chapter}
+metadata = element metadata {title, author?, publisher, source}
+title = element title {text}
+author = element author {text}
+publisher = element publisher {where, when, text}
+where = attribute where {text}
+when = attribute when {xsd:int}
+source = element source {type, url}
+type = attribute type {text}
+url = attribute url {xsd:anyURI}
+contents = element contents {head, title}
+head = element head {text}
+chapter = element chapter {n+, title+, p+}
+n = attribute n {xsd:int}
+p = element p {n, quote*, text}
+quote = element quote {wordCount, text}
+wordCount = attribute wordCount {xsd:int}
+
+
+
+
